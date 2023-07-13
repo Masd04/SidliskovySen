@@ -1,0 +1,14 @@
+Vítejte!
+Toto je příběh o Červené Karkulce, babičce a vlkovi.
+Napište 'nápověda', pokud si nevíte rady, jak hrát dál.
+
+Jsi v mistnosti/prostoru domeček, ve kterém bydlí Karkulka.
+východy: les
+věci: koste skrin
+> jdi les
+Jsi v mistnosti/prostoru les s jahodami, malinami a pramenem vody.
+východy: domeček hluboký_les
+věci:
+> konec
+hra ukončena příkazem konec
+Dík, že jste si zahráli.  Ahoj.
